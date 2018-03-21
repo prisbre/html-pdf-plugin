@@ -1,0 +1,14 @@
+{
+  "name": "html-pdf-plugin",
+  "version": "1.0.0",
+  "description": "Plugin that creates PDF file from HTML",
+  "author": "Huanfeng Chen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.1.1"
+  }
+}
