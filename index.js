@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
-const loaderUtils = require("loader-utils");
 const puppeteer = require('puppeteer')
 
 class HtmlPdfPlugin {

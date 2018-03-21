@@ -1,6 +1,6 @@
 {
   "name": "html-pdf-plugin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Plugin that creates PDF file from HTML",
   "author": "Huanfeng Chen",
   "main": "index.js",
@@ -9,6 +9,25 @@
   },
   "license": "MIT",
   "dependencies": {
+    "puppeteer": "^1.1.1",
+    "lodash": "^4.17.5",
+    "webpack": "^4.0.1"
+  }, 
+  "peerDependencies": {
+    "webpack": "^4.0.0",
     "puppeteer": "^1.1.1"
+  },
+  "keywords": [
+    "webpack",
+    "pdf",
+    "html",
+    "webpack",
+    "html-pdf-plugin"
+  ],
+  "bugs": "https://github.com/prisbre/html-pdf-plugin/issues",
+  "homepage": "https://github.com/prisbre/html-pdf-plugin",
+  "repository": "https://github.com/prisbre/html-pdf-plugin.git",
+  "engines": {
+    "node": ">=6.11.5"
   }
 }

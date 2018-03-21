@@ -1,6 +1,10 @@
 HTML PDF Plugin
 ==========================
 
+<!-- [START badges] -->
+[![npm](https://img.shields.io/npm/v/html-pdf-plugin.svg)](https://npmjs.com/package/html-pdf-plugin) [![node](https://img.shields.io/node/v/html-pdf-plugin.svg)](https://nodejs.org) [![deps](https://david-dm.org/prisbre/html-pdf-plugin.svg)](https://david-dm.org/prisbre/html-pdf-plugin) 
+<!-- [END badges] -->
+
 Plugin that creates PDF file from HTML after webpack compilation has completed.
 
 ## Install
@@ -110,3 +114,4 @@ options = {
 ##	License
 
 Licensed under [The MIT License](LICENSE).
+
