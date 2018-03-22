@@ -9,7 +9,7 @@ Plugin that creates PDF file from HTML after webpack compilation has completed.
 
 ## Install
 
-`npm install html-pdf-loader --save-dev`
+`npm install html-pdf-plugin --save-dev`
 
 This plugin depends on [GoogleChrome/Puppeteer](https://github.com/GoogleChrome/Puppeteer). When you install, it downloads a recent version of Chromium (~170Mb Mac, ~282Mb Linux, ~280Mb Win) that is guaranteed to work with the API. To skip the download, see [Environment variables](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#environment-variables).
 
